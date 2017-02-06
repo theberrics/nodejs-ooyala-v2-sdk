@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ooyala/nodejs-ooyala-v2-sdk"
+    "url": "https://github.com/theberrics/nodejs-ooyala-v2-sdk"
   },
   "keywords": [
     "ooyala",
@@ -19,6 +19,7 @@
   "dependencies": {
     "async": "^1.5.0",
     "crypto": "0.0.3",
-    "url": "^0.11.0"
+    "request": "^2.79.0",
+    "url": "^0.11.0",
   }
 }
